@@ -1,3 +1,1 @@
-# Winternship test assignment for Java developer internship
-
-Playtech Winternship test assignment solution.
+# Playtech Java developer Winternship test assignment solution 
