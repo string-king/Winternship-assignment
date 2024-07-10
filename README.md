@@ -1,1 +1,1 @@
-# Playtech Java developer Winternship test assignment solution 
+Playtech Java developer Winternship test assignment solution.
